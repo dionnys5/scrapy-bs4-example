@@ -1,0 +1,10 @@
+env/
+venv/
+migrations/
+*.sqlite3
+*.csv
+*.seen
+*.state
+*.log
+.idea
+__pycache__
